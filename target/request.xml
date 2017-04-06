@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<requests>
+<request>
+<url>http://www.sina.com.cn</url>
+<cookie>username=test;logintime=20170202131415789;</cookie>
+<id>1</id>
+<encoding>utf-8</encoding>
+</request>
+</requests>
+</root>

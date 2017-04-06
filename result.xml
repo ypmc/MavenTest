@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <results>
+        <result>
+            <response>&lt;html&gt;&lt;head&gt;&lt;title&gt;302 Found&lt;/title&gt;&lt;/head&gt;&lt;body bgcolor="white"&gt;&lt;center&gt;&lt;h1&gt;302 Found&lt;/h1&gt;&lt;/center&gt;&lt;hr&gt;&lt;center&gt;pr-nginx_1-0-330_BRANCH BranchTime : Tue Mar 14 15:29:16 CST 2017&lt;/center&gt;&lt;/body&gt;&lt;/html&gt;</response>
+            <status>302</status>
+            <url>http://www.baidu.com</url>
+        </result>
+    </results>
+</root>

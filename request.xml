@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<requests>
+<request id="123">
+<url>http://www.baidu.com</url>
+<cookie>username=test;logintime=20170202131415789;</cookie>
+<encoding>utf-8</encoding>
+</request>
+</requests>
+</root>
