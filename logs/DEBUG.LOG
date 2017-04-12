@@ -1,8 +1,4 @@
-[ 2017-04-06 14:40:26,457 ][ main:0 ] - [ DEBUG ] Main Entry
-[ 2017-04-06 14:40:27,250 ][ main:793 ] - [ DEBUG ] id = 0,url = http://www.baidu.com,cookie = username=test;logintime=20170202131415789;,encoding = utf-8
-[ 2017-04-06 14:40:28,553 ][ main:2096 ] - [ DEBUG ] status = 302,url = http://www.baidu.com,response = <html><head><title>302 Found</title></head><body bgcolor="white"><center><h1>302 Found</h1></center><hr><center>pr-nginx_1-0-330_BRANCH BranchTime : Tue Mar 14 15:29:16 CST 2017</center></body></html>
-[ 2017-04-06 14:40:28,579 ][ main:2122 ] - [ DEBUG ] Main End
-[ 2017-04-06 18:37:53,160 ][ main:0 ] - [ DEBUG ] Main Entry
-[ 2017-04-06 18:37:53,448 ][ main:288 ] - [ DEBUG ] id = 123,url = http://www.baidu.com,cookie = username=test;logintime=20170202131415789;,encoding = utf-8
-[ 2017-04-06 18:37:55,183 ][ main:2023 ] - [ DEBUG ] status = 302,url = http://www.baidu.com,response = <html><head><title>302 Found</title></head><body bgcolor="white"><center><h1>302 Found</h1></center><hr><center>pr-nginx_1-0-330_BRANCH BranchTime : Tue Mar 14 15:29:16 CST 2017</center></body></html>
-[ 2017-04-06 18:37:55,218 ][ main:2058 ] - [ DEBUG ] Main End
+[ 2017-04-12 10:15:12,530 ][ main:0 ] - [ DEBUG ] Main Entry
+[ 2017-04-12 10:15:13,327 ][ main:797 ] - [ DEBUG ] id = 123,url = http://www.baidu.com,cookie = username=test;logintime=20170202131415789;,encoding = utf-8
+[ 2017-04-12 10:15:18,883 ][ main:6353 ] - [ DEBUG ] status = Read timed out,url = http://www.baidu.com,response = Read timed out
+[ 2017-04-12 10:15:18,935 ][ main:6405 ] - [ DEBUG ] Main End
